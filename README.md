@@ -10,7 +10,7 @@ http://phpxmlrpc.sourceforge.net/
 
 Example
 -------
-
+```
 <?php
 require('xmlrpc.inc');
 require('Wordpress-XML-RPC-Library/get-pages.php');
@@ -30,6 +30,7 @@ else {
     print_r($pages);   
 }
 ?>
+```
 
 Proxies
 -------
