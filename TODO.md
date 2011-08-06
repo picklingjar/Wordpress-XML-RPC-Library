@@ -4,9 +4,9 @@ Todo
 Clean up post/page creation - pass array of values instead of long list of args
 
 
-Feature Complete Function Todo
-------------------------------
-
+Todo - Feature Complete Functions 
+---------------------------------
+```
 wp.getUsersBlogs
 wp.getTags
 wp.getPageStatusList
@@ -35,4 +35,4 @@ metaWeblog.getUsersBlogs
 mt.getCategoryList
 mt.getPostCategories
 mt.setPostCategories
-
+```
